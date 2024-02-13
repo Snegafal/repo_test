@@ -20,13 +20,13 @@ jobs:
         uses: Xotabu4/selenoid-github-action@v2
       - run: ./gradlew clean test -Dselenide.remote=http://localhost:4444/wd/hub
 
-      - name: Load test report history
-          uses: actions/checkout@v3
-          if: always()
-          continue-on-error: true
-          with:
-            ref: gh-pages
-            path: gh-pages
+      - name: Get Allure history
+        uses: actions/checkout@v2
+        if: always()
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
 
       - name: Build test report
            uses: simple-elf/allure-report-action@v1.7
