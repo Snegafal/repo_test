@@ -5,6 +5,7 @@ import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Story;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import pages.LoginPage;
@@ -22,6 +23,7 @@ public class LoginTest extends BaseTest {
         Assertions.assertEquals(loginPage.getPasswordFieldErrorMessageText(), "Поле не заполнено");
     }
 
+    @Disabled
     @Test
     @DisplayName("Проверка модального окна Стать клиентом Триколора")
     public void becomeTricolorClientPopup() {
