@@ -23,7 +23,6 @@ public class LoginTest extends BaseTest {
         Assertions.assertEquals(loginPage.getPasswordFieldErrorMessageText(), "Поле не заполнено");
     }
 
-    @Disabled
     @Test
     @DisplayName("Проверка модального окна Стать клиентом Триколора")
     public void becomeTricolorClientPopup() {
