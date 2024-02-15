@@ -1,0 +1,31 @@
+[2024-02-15T16:14:42.579Z] [WARNING] https://new-lka-rel.tricolor.ru/assets/vendor.f9cc803e.js 86:3337 "Deprecation warning: use moment.updateLocale(localeName, config) to change an existing locale. moment.defineLocale(localeName, config) should only be used for creating a new locale See http://momentjs.com/guides/#/warnings/define-locale/ for more info."
+[2024-02-15T16:14:43.516Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:43.534Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:43.893Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:43.893Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.030Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.031Z] [WARNING] https://new-lka-rel.tricolor.ru/login - Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-02-15T16:14:44.857Z] [WARNING] https://sso-rel.tricolor.ru/resources/w4dr2/login/new_tricolor_theme/login-vue.js 1:632365 "Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled and not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters"
+[2024-02-15T16:14:44.936Z] [SEVERE] https://sso-rel.tricolor.ru/realms/tricolor/protocol/openid-connect/auth?client_id=abonent_selfcare&redirect_uri=https%3A%2F%2Fnew-lka-rel.tricolor.ru%2F&state=ea37e1f0-77e7-4b2c-8bfa-b9af5f4b4727&response_mode=fragment&response_type=code&scope=openid&nonce=024f6db2-193a-4637-8e87-8e8187c00ad2&code_challenge=8NfjaDAp8YtmaqjzuWv7eYsvQdSDqdtmhVsI045KOqE&code_challenge_method=S256 - Refused to apply style from 'https://sso-rel.tricolor.ru/realms/tricolor/protocol/openid-connect/@/assets/styles/icons/style.css' because its MIME type ('application/json') is not a supported stylesheet MIME type, and strict MIME checking is enabled.

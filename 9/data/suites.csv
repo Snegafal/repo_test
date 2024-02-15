@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Feb 15 16:14:40 GMT 2024","Thu Feb 15 16:14:47 GMT 2024","7193","","tests.LoginTest","","tests.LoginTest","unsuccessfulLoginWithWrongPassword","Неуспешная авторизация с неверным паролем",""
+"failed","Thu Feb 15 16:14:24 GMT 2024","Thu Feb 15 16:14:33 GMT 2024","9138","","tests.LoginTest","","tests.LoginTest","becomeTricolorClientPopup","Проверка модального окна Стать клиентом Триколора",""
+"failed","Thu Feb 15 16:14:33 GMT 2024","Thu Feb 15 16:14:40 GMT 2024","7119","","tests.LoginTest","","tests.LoginTest","impossibleLoginWithoutFillInLoginAndPassword","Попытка авторизации без заполнения логина и пароля",""
