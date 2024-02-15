@@ -1,15 +1,10 @@
 package utils;
 
 import com.codeborne.selenide.Selenide;
-import com.codeborne.selenide.WebDriverRunner;
 import com.codeborne.selenide.logevents.SelenideLogger;
-import io.qameta.allure.Attachment;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-
 
 public abstract class BaseTest {
 
@@ -17,11 +12,6 @@ public abstract class BaseTest {
 
     protected void setConfiguration() {
           SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
-    }
-
-    @Attachment(value = "Screenshot", type = "img/png", fileExtension = "png")
-    public byte[] takeScreenshot() {
-        return ((TakesScreenshot) WebDriverRunner.getWebDriver()).getScreenshotAs(OutputType.BYTES);
     }
 
     @BeforeEach
@@ -32,7 +22,9 @@ public abstract class BaseTest {
 
     @AfterEach
     protected void tearDown() {
-        takeScreenshot();
+        Attach.screenshotAs("screenshot");
+        Attach.browserConsoleLogs();
+        Attach.pageSource();
         Selenide.closeWebDriver();
     }
 }

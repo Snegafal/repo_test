@@ -1,2 +1,6 @@
 .idea
 .gradle
+build/allure-results
+build/allure
+build/reports
+build/test-results
